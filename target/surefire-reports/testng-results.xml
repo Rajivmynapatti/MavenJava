@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Indianic.LoginTest" duration-ms="23775" started-at="2018-02-22T10:16:13Z" finished-at="2018-02-22T10:16:36Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="23775" started-at="2018-02-22T10:16:13Z" finished-at="2018-02-22T10:16:36Z">
+      <class name="Indianic.LoginTest">
+        <test-method status="PASS" signature="Logintest()[pri:0, instance:Indianic.LoginTest@1b52d12]" name="Logintest" duration-ms="22617" started-at="2018-02-22T10:16:13Z" finished-at="2018-02-22T10:16:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logintest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Indianic.LoginTest@1b52d12]" name="teardown" is-config="true" duration-ms="1082" started-at="2018-02-22T10:16:35Z" finished-at="2018-02-22T10:16:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Indianic.LoginTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Indianic.LoginTest -->
+</testng-results>
