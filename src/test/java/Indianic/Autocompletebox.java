@@ -44,6 +44,7 @@ public class Autocompletebox {
 	public void teardown() {
 		
 		driver.quit();
+		System.out.println("User logout successfully");
 	}
 	
 	public void selectOptionWithText(String textToSelect) {
